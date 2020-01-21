@@ -1,0 +1,3 @@
++Create a templates directory and connect it to the setting.py file
++Create a new view called help and use url mapping to render it for any page with the extension /help
++Add Template tags to return "Help Page"
